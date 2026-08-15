@@ -127,3 +127,4 @@ _Note: Additions, corrections, broken links? Let us know at logue-sdk@korg.co.jp
 | [Acidbass Mini](https://payhip.com/b/2oNU4) | Frostmod Audio | monophonic acid bass synthesizer | nts-1 mkii | donation |
 | [Riffosc](https://payhip.com/b/VGsDh) | Frostmod Audio | Dual supersaw oscillator | microkorg2 | donation |
 | [C0mp4ct](https://payhip.com/b/zXEHp) | Frostmod Audio | 4 voice polyphonic synthesizer | nts-1 mkii | paid |
+| [Lirah-1](https://danielmajid.gumroad.com/l/lirah-1) | Daniel Majid | FM synth inspired by the Soma Lyra-8 | nts-1 mkii| donation |
