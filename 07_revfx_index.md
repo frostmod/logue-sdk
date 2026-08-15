@@ -34,3 +34,6 @@ _Note: The reverb effect section can contain effects that perform other function
 | [Luminance](https://www.sinevibes.com/korgluminance/) | Sinevibes | FDN based shimmer reverb | pro, xd, nts-1, nts-1 mkII, nts-3, microkorg2 | paid |
 | [LuceAlNeon](https://github.com/fedemone/logue-sdk) | Federico Gennari | five different reverbs to be blend | drum | free |
 | [NeonLabirinto](https://github.com/fedemone/logue-sdk) | Federico Gennari | maze of sounds reverb | drum | free |
+| [Squall](https://danielmajid.gumroad.com/l/squall) | Daniel Majid | Mutable Instruments Clouds reverb port | nts-1 mkii | donation |
+| [Gorge](https://danielmajid.gumroad.com/l/aftjoy) | Daniel Majid | Valley Audio Plateau reverb port | nts-1 mkii | donation |
+
