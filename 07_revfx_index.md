@@ -36,4 +36,3 @@ _Note: The reverb effect section can contain effects that perform other function
 | [NeonLabirinto](https://github.com/fedemone/logue-sdk) | Federico Gennari | maze of sounds reverb | drum | free |
 | [Squall](https://danielmajid.gumroad.com/l/squall) | Daniel Majid | Mutable Instruments Clouds reverb port | nts-1 mkii | donation |
 | [Gorge](https://danielmajid.gumroad.com/l/aftjoy) | Daniel Majid | Valley Audio Plateau reverb port | nts-1 mkii | donation |
-
